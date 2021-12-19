@@ -1,0 +1,12 @@
+1 – Senior QA Automation selenium with Python Hands on with some networking exp.  
+
+1 – Mid Level QA Automation selenium with Python Hands on with some networking exp 
+
+ 
+
+Need Network QA engineer for test automation, so please make sure that the profiles have Python, Selenium experience along with networking knowledge.–.  Please note that we need that person to automate the test case which involve UI test cases (need hands on experience on Python and selenium) that are built on networking solutions.
+
+Candidate need to be strong on Test automation using Python and Selenium, Network QA, CCNA/CCNP, manual
+network testing, network traffic generation, Layer 2/3 testing.
+
+ 
